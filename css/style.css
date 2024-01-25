@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+}
+
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.cd{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    min-height: 70%;
+}
+.cd1{
+    padding: 30px;
+   
+}
